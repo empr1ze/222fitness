@@ -3,3 +3,5 @@ lifestyle in pursuit of food that energize and detox and a lifestyle of fitness,
 
 Bootstrap was used. This project details the landing page for 222fitness. 
 You will find sample screenshots in the screenshots folder.
+
+Video demo: https://www.youtube.com/watch?v=JrLK8Z8Ntns
